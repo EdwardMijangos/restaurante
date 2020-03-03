@@ -35,6 +35,17 @@
     				<h3>Rollos de carne<br><span>Relleno de Alcaparras</span></h3>
     			</div>
     		</div>
+<<<<<<< HEAD
+=======
+    			<div class="swiper-slide">
+    			<div class="imgBx">
+    				<img src="https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80">
+    			</div>
+    			<div class="details">
+    				<h3>Rib eye hawai<br><span>Cubierto con una crema de piña</span></h3>
+    			</div>
+    		</div>
+>>>>>>> 7ef12912f2f12c0354d68340fa5728d199618275
     	</div>
     	<div class="swiper-pagination"></div>
     </div>
