@@ -9,6 +9,7 @@
     <title>Menú</title>
 </head>
 <body>
+<<<<<<< HEAD
     <div class="swiper-container">
     	<div class="swiper-wrapper">
     		<div class="swiper-slide">
@@ -68,5 +69,14 @@
     		},
     	});
     </script>
+=======
+    <div class="cabeza">
+        <nav class="barra"></nav>
+    </div>
+    
+    <div class="cuerpo">
+    
+    </div>
+>>>>>>> de1b7872f11e24400a594b8ab372478704913d86
 </body>
 </html>
